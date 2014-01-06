@@ -27,7 +27,7 @@ public class MainActivity extends Activity {
 		Intent intent = new Intent(MainActivity.this, InterfaceQuestionEvaluation.class);		            
 		startActivity(intent);	
 
-
+//common
 	}
 
     @Override
