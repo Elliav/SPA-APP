@@ -18,8 +18,6 @@ public class MainActivity extends Activity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		int i = 0 ;
 		return true;
-		//sisisisisisisisisi
-		return true;
 	}
 
 }
